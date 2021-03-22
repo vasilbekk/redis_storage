@@ -6,6 +6,9 @@ __pycache__/
 # PyCharm IDE extension
 .idea/
 
+# Redis server extension
+_redis/
+
 # C extensions
 *.so
 

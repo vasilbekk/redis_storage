@@ -1,4 +1,3 @@
 from . import RedisStorage
 
-def test():
-git:
+def test()
